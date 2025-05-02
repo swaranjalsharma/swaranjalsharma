@@ -1,14 +1,14 @@
-## Hi there 👋 Anurag Mishra 
+## Hi there 👋 Swaranjal Sharma.
 
-A Data explorer: charting the uncharted (with coffee).
+Numbers tell stories, I just help them speak.
 
 ### About Me:
 - 😊**Pronouns**: He/Him
 - 🎓**Education**: Currently In BCA Final Year.
 - 🌱**Currently Learning**: Python, Machine Learning, and Data Visualization.
-- ⚡**Fun Fact**: Expertise in making spreadsheets laugh (okay, maybe just making sense of them).
+- ⚡**Fun Fact**: Ctrl+C, Ctrl+V enthusiast with a data science degree.
 
-<img src="https://media.giphy.com/media/frXrz3i1HwAwLX7Mr6/giphy.gif" width="500" alt="Coding GIF">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkyeXlkZngxbnhqYmFyNWJ1cXRtb21mcjNncjdud20wYndvNmkzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/anurag-mishra-b17051288">
