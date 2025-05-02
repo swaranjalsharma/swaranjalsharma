@@ -11,10 +11,10 @@ Numbers tell stories, I just help them speak.
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkyeXlkZngxbnhqYmFyNWJ1cXRtb21mcjNncjdud20wYndvNmkzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/anurag-mishra-b17051288">
+<a href="https://www.linkedin.com/in/swaranjal-sharma-94251730b/">
 <img src="https://tse1.mm.bing.net/th?id=OIP.waOtRAV99hCXTCS_RvbK6QHaGp&pid=Api&P=0&h=220" alt="LinkedIn" width="40"/>
 </a>
-<a href="https://medium.com/@anuragmishrably800">
+<a href="https://medium.com/@swaranjalsharma">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40"/>
 </a>
 
@@ -49,7 +49,7 @@ Numbers tell stories, I just help them speak.
 
 ### 📊 GitHub Stats:
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragMishra800&show_icons=true&theme=dark)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swaranjalsharma&show_icons=true&theme=dark)
 
 ### 🔝 Most Used Languages:
 
